@@ -9,8 +9,8 @@
 
 **Quick setup -- if you’ve done this kind of thing before**
 or	
-<button>HTTPS</button><code>https://github.com/cyberfighter-org/webdav-onmicrosoft.okta.com.git</code><p>
-<button>SSH</button><code>git@github.com:cyberfighter-org/webdav-onmicrosoft.okta.com.git</code></p>
+<p><b>HTTPS:</b><code>https://github.com/cyberfighter-org/webdav-onmicrosoft.okta.com.git</code></p>
+<p><b>SSH:</b><code>git@github.com:cyberfighter-org/webdav-onmicrosoft.okta.com.git</code></p>
 	
 <details> <summary>Get started by</summary>
 
